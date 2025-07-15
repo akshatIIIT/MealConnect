@@ -1,4 +1,4 @@
-## 🍽️ MealConnect – A Food Sharing Platform
+## 🍽️ MealConnect – A Food Sharing Platform Prototype
 MealConnect is a socially driven, human-centered design project that aims to minimize food waste and hunger by connecting restaurants and food providers with shelters, food banks, and people in need. The platform empowers communities to share surplus food efficiently, sustainably, and safely.
 
 
@@ -51,11 +51,11 @@ User Evaluation
 → 65+ responses; Majority found UI intuitive and feature-rich
 
 ## 🔗 Key Project Links
-🎨 Hi-Fi Figma Prototype
+🎨 Hi-Fi Figma Prototype- https://www.figma.com/proto/PtQvkO9GR8N9dRFGe9rb5U/Untitled?node-id=36%3A964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=36%3A964&mode=design
 
-🧠 Miro Board – Affinity Mapping & Flow
+🧠 Miro Board – https://miro.com/app/board/uXjVNLPnC6o=/?share_link_id=413991798706
 
-📋 Google Form – User Testing
+📋 Google Form – https://docs.google.com/forms/d/e/1FAIpQLSfSKY1CMnbJq0dgh2Z0ZW9Z-6NqJaCpfPtNz1yHdqxnDAPUmg/viewform
 
 📄 Scenario Doc
 
